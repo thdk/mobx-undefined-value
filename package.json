@@ -1,0 +1,31 @@
+{
+  "name": "mobx-undefined-value",
+  "version": "1.0.0",
+  "description": "Micro package to be used with mobx to allow assigning an undefined value to an observable value.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thdk/mobx-undefined-value.git"
+  },
+  "keywords": [
+    "mobx",
+    "undefined",
+    "undefined",
+    "value",
+    "thdk"
+  ],
+  "author": "Thomas Dekiere (thdk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thdk/mobx-undefined-value/issues"
+  },
+  "homepage": "https://github.com/thdk/mobx-undefined-value#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
